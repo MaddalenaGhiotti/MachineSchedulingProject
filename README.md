@@ -68,8 +68,6 @@ Average results are provided for each heuristic, including % improvement and run
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 This project is part of an academic coursework and is intended for educational purposes.
 
----
-
 ## Authors
 - Maddalena Ghiotti
 - Aldo Sambo
